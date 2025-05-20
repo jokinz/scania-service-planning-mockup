@@ -75,12 +75,12 @@ function applyFilters(data, query) {
 app.get('/', (req, res) => {
   const rawData = loadServicePlanningData();
   const filteredData = applyFilters(rawData, req.query);
-  res.json({ servicePlans: filteredData });
+  res.json(filteredData);
 });
 app.post('/', (req, res) => {
   const rawData = loadServicePlanningData();
   const filteredData = applyFilters(rawData, req.query);
-  res.json({ servicePlans: filteredData });
+  res.json(filteredData);
 });
 
 app.listen(PORT, () => {
