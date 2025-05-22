@@ -13,7 +13,7 @@ function parseBoolean(value) {
 }
 
 function loadServicePlanningData() {
-  const filePath = path.join(__dirname, 'actividaes.json');
+  const filePath = path.join(__dirname, 'actividades.json');
   const raw = fs.readFileSync(filePath, 'utf-8');
   const data = JSON.parse(raw);
 
