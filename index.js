@@ -13,26 +13,25 @@ function parseBoolean(value) {
 }
 
 function loadServicePlanningData() {
-  const filePath = path.join(__dirname, 'service_planning.xlsx');
-  const workbook = xlsx.readFile(filePath);
-  const sheet = workbook.Sheets[workbook.SheetNames[0]];
-  const jsonData = xlsx.utils.sheet_to_json(sheet);
+  const filePath = path.join(__dirname, 'actividaes.json');
+  const raw = fs.readFileSync(filePath, 'utf-8');
+  const data = JSON.parse(raw);
 
-  return jsonData.map(row => ({
-    chassisNo: row.chassisNo || '',
-    VIN: row.VIN || '',
-    header: row.header || '',
-    macId: uuidv4(),
-    maintenancePlanProgramCode: row.maintenancePlanProgramCode || '',
-    duration: parseInt(row.duration, 10) || 0,
-    bookingStatus: row.bookingStatus || '',
-    scheduleDate: row.scheduleDate || '',
-    performedDate: row.performedDate || '',
-    workshopName: row.workshopName || '',
-    workshopId: row.workshopId || '',
-    performedDistance: parseInt(row.performedDistance, 10) || 0,
-    plannedDistance: parseInt(row.plannedDistance, 10) || 0,
-    isFlexible: parseBoolean(row.isFlexible),
+  return data.map(entry => ({
+    vin: entry.vin || '',
+    chassisNo: entry.chassisNo || '',
+    header: entry.header || '',
+    macId: entry.macId || '',
+    maintenancePlanProgramCode: entry.maintenancePlanProgramCode || '',
+    duration: parseInt(entry.duration, 10) || 0,
+    bookingStatus: entry.bookingStatus || '',
+    scheduleDate: entry.scheduleDate || '',
+    performedDate: entry.performedDate || '',
+    workshopName: entry.workshopName || '',
+    workshopId: entry.workshopId || '',
+    performedDistance: entry.performedDistance != null ? parseInt(entry.performedDistance, 10) : null,
+    plannedDistance: entry.plannedDistance != null ? parseInt(entry.plannedDistance, 10) : null,
+    isFlexible: parseBoolean(entry.isFlexible)
   }));
 }
 
@@ -48,7 +47,7 @@ function applyFilters(data, query) {
     if (
       vinOrChassis &&
       !(
-        entry.VIN.toLowerCase().includes(vinOrChassis) ||
+        entry.vin.toLowerCase().includes(vinOrChassis) ||
         entry.chassisNo.toLowerCase().includes(vinOrChassis)
       )
     ) {
