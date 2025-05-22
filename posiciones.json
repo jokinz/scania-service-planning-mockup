@@ -1,0 +1,954 @@
+{
+    "vehiclePositionResponse": {
+        "vehiclePositions": [
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:49:01",
+                "receivedDateTime": "2025-05-21T15:49:04",
+                "gnssPosition": {
+                    "latitude": -23.521347,
+                    "longitude": -69.396202,
+                    "heading": "338",
+                    "altitude": 1721,
+                    "speed": 18,
+                    "positionDateTime": "2025-05-21T15:49:00"
+                },
+                "wheelBasedSpeed": 18
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:48:45",
+                "receivedDateTime": "2025-05-21T15:49:18",
+                "gnssPosition": {
+                    "latitude": -23.522041,
+                    "longitude": -69.395912,
+                    "heading": "338",
+                    "altitude": 1721,
+                    "speed": 21.6,
+                    "positionDateTime": "2025-05-21T15:48:44"
+                },
+                "wheelBasedSpeed": 21.6
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:50:01",
+                "receivedDateTime": "2025-05-21T15:50:05",
+                "gnssPosition": {
+                    "latitude": -23.519072,
+                    "longitude": -69.397171,
+                    "heading": "339",
+                    "altitude": 1720,
+                    "speed": 18,
+                    "positionDateTime": "2025-05-21T15:50:00"
+                },
+                "wheelBasedSpeed": 18
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:51:01",
+                "receivedDateTime": "2025-05-21T15:51:05",
+                "gnssPosition": {
+                    "latitude": -23.513668,
+                    "longitude": -69.399498,
+                    "heading": "339",
+                    "altitude": 1725,
+                    "speed": 72,
+                    "positionDateTime": "2025-05-21T15:51:00"
+                },
+                "wheelBasedSpeed": 72
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:52:01",
+                "receivedDateTime": "2025-05-21T15:52:04",
+                "gnssPosition": {
+                    "latitude": -23.500034,
+                    "longitude": -69.405197,
+                    "heading": "339",
+                    "altitude": 1706,
+                    "speed": 115.2,
+                    "positionDateTime": "2025-05-21T15:52:00"
+                },
+                "wheelBasedSpeed": 115.2
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:58:05",
+                "receivedDateTime": "2025-05-21T15:58:34",
+                "gnssPosition": {
+                    "latitude": -23.484337,
+                    "longitude": -69.411797,
+                    "heading": "338",
+                    "altitude": 1730,
+                    "speed": 104.4,
+                    "positionDateTime": "2025-05-21T15:53:00"
+                },
+                "wheelBasedSpeed": 104.4
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:58:05",
+                "receivedDateTime": "2025-05-21T15:58:34",
+                "gnssPosition": {
+                    "latitude": -23.469902,
+                    "longitude": -69.416748,
+                    "heading": "3",
+                    "altitude": 1746,
+                    "speed": 90,
+                    "positionDateTime": "2025-05-21T15:54:00"
+                },
+                "wheelBasedSpeed": 90
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:58:05",
+                "receivedDateTime": "2025-05-21T15:58:34",
+                "gnssPosition": {
+                    "latitude": -23.457155,
+                    "longitude": -69.419571,
+                    "heading": "348",
+                    "altitude": 1696,
+                    "speed": 100.8,
+                    "positionDateTime": "2025-05-21T15:55:00"
+                },
+                "wheelBasedSpeed": 100.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:58:05",
+                "receivedDateTime": "2025-05-21T15:58:34",
+                "gnssPosition": {
+                    "latitude": -23.443775,
+                    "longitude": -69.426674,
+                    "heading": "324",
+                    "altitude": 1642,
+                    "speed": 108,
+                    "positionDateTime": "2025-05-21T15:56:00"
+                },
+                "wheelBasedSpeed": 108
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:58:05",
+                "receivedDateTime": "2025-05-21T15:58:34",
+                "gnssPosition": {
+                    "latitude": -23.435396,
+                    "longitude": -69.442451,
+                    "heading": "289",
+                    "altitude": 1613,
+                    "speed": 122.4,
+                    "positionDateTime": "2025-05-21T15:57:00"
+                },
+                "wheelBasedSpeed": 122.4
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:58:05",
+                "receivedDateTime": "2025-05-21T15:58:34",
+                "gnssPosition": {
+                    "latitude": -23.429268,
+                    "longitude": -69.459122,
+                    "heading": "298",
+                    "altitude": 1584,
+                    "speed": 108,
+                    "positionDateTime": "2025-05-21T15:58:00"
+                },
+                "wheelBasedSpeed": 108
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:58:05",
+                "receivedDateTime": "2025-05-21T15:58:34",
+                "gnssPosition": {
+                    "latitude": -23.428623,
+                    "longitude": -69.460449,
+                    "heading": "298",
+                    "altitude": 1578,
+                    "speed": 111.6,
+                    "positionDateTime": "2025-05-21T15:58:05"
+                },
+                "wheelBasedSpeed": 111.6
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:58:45",
+                "receivedDateTime": "2025-05-21T15:58:50",
+                "gnssPosition": {
+                    "latitude": -23.423586,
+                    "longitude": -69.470512,
+                    "heading": "300",
+                    "altitude": 1536,
+                    "speed": 100.8,
+                    "positionDateTime": "2025-05-21T15:58:44"
+                },
+                "wheelBasedSpeed": 100.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T15:59:01",
+                "receivedDateTime": "2025-05-21T15:59:05",
+                "gnssPosition": {
+                    "latitude": -23.420853,
+                    "longitude": -69.473709,
+                    "heading": "326",
+                    "altitude": 1525,
+                    "speed": 104.4,
+                    "positionDateTime": "2025-05-21T15:59:00"
+                },
+                "wheelBasedSpeed": 104.4
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:00:01",
+                "receivedDateTime": "2025-05-21T16:00:05",
+                "gnssPosition": {
+                    "latitude": -23.412111,
+                    "longitude": -69.487427,
+                    "heading": "304",
+                    "altitude": 1521,
+                    "speed": 111.6,
+                    "positionDateTime": "2025-05-21T16:00:00"
+                },
+                "wheelBasedSpeed": 111.6
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:01:01",
+                "receivedDateTime": "2025-05-21T16:01:05",
+                "gnssPosition": {
+                    "latitude": -23.409014,
+                    "longitude": -69.493652,
+                    "heading": "296",
+                    "altitude": 1513,
+                    "speed": 7.2,
+                    "positionDateTime": "2025-05-21T16:01:00"
+                },
+                "wheelBasedSpeed": 7.2
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:02:01",
+                "receivedDateTime": "2025-05-21T16:02:05",
+                "gnssPosition": {
+                    "latitude": -23.408205,
+                    "longitude": -69.495377,
+                    "heading": "297",
+                    "altitude": 1511,
+                    "speed": 21.6,
+                    "positionDateTime": "2025-05-21T16:02:00"
+                },
+                "wheelBasedSpeed": 21.6
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:03:01",
+                "receivedDateTime": "2025-05-21T16:03:05",
+                "gnssPosition": {
+                    "latitude": -23.407059,
+                    "longitude": -69.497757,
+                    "heading": "298",
+                    "altitude": 1510,
+                    "speed": 21.6,
+                    "positionDateTime": "2025-05-21T16:03:00"
+                },
+                "wheelBasedSpeed": 21.6
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:04:01",
+                "receivedDateTime": "2025-05-21T16:04:05",
+                "gnssPosition": {
+                    "latitude": -23.404902,
+                    "longitude": -69.50322,
+                    "heading": "277",
+                    "altitude": 1503,
+                    "speed": 64.8,
+                    "positionDateTime": "2025-05-21T16:04:00"
+                },
+                "wheelBasedSpeed": 64.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:05:01",
+                "receivedDateTime": "2025-05-21T16:05:06",
+                "gnssPosition": {
+                    "latitude": -23.400892,
+                    "longitude": -69.516243,
+                    "heading": "317",
+                    "altitude": 1500,
+                    "speed": 104.4,
+                    "positionDateTime": "2025-05-21T16:05:00"
+                },
+                "wheelBasedSpeed": 104.4
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:06:01",
+                "receivedDateTime": "2025-05-21T16:06:05",
+                "gnssPosition": {
+                    "latitude": -23.393051,
+                    "longitude": -69.531624,
+                    "heading": "295",
+                    "altitude": 1480,
+                    "speed": 118.8,
+                    "positionDateTime": "2025-05-21T16:06:00"
+                },
+                "wheelBasedSpeed": 118.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:07:01",
+                "receivedDateTime": "2025-05-21T16:07:05",
+                "gnssPosition": {
+                    "latitude": -23.385571,
+                    "longitude": -69.549637,
+                    "heading": "293",
+                    "altitude": 1466,
+                    "speed": 122.4,
+                    "positionDateTime": "2025-05-21T16:07:00"
+                },
+                "wheelBasedSpeed": 122.4
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:08:45",
+                "receivedDateTime": "2025-05-21T16:21:17",
+                "gnssPosition": {
+                    "latitude": -23.371691,
+                    "longitude": -69.579933,
+                    "heading": "294",
+                    "altitude": 1428,
+                    "speed": 122.4,
+                    "positionDateTime": "2025-05-21T16:08:44"
+                },
+                "wheelBasedSpeed": 122.4
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:18:45",
+                "receivedDateTime": "2025-05-21T16:21:20",
+                "gnssPosition": {
+                    "latitude": -23.338633,
+                    "longitude": -69.752533,
+                    "heading": "274",
+                    "altitude": 1385,
+                    "speed": 90,
+                    "positionDateTime": "2025-05-21T16:18:44"
+                },
+                "wheelBasedSpeed": 90
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": {
+                    "triggerType": "WARNING_RETARDER",
+                    "context": "SCANIA"
+                },
+                "createdDateTime": "2025-05-21T16:19:30",
+                "receivedDateTime": "2025-05-21T16:21:20",
+                "gnssPosition": {
+                    "latitude": -23.339928,
+                    "longitude": -69.762627,
+                    "heading": "266",
+                    "altitude": 1343,
+                    "speed": 79.2,
+                    "positionDateTime": "2025-05-21T16:19:29"
+                },
+                "wheelBasedSpeed": 79.2
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.377241,
+                    "longitude": -69.566895,
+                    "heading": "307",
+                    "altitude": 1443,
+                    "speed": 118.8,
+                    "positionDateTime": "2025-05-21T16:08:00"
+                },
+                "wheelBasedSpeed": 118.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.369717,
+                    "longitude": -69.584656,
+                    "heading": "294",
+                    "altitude": 1425,
+                    "speed": 118.8,
+                    "positionDateTime": "2025-05-21T16:09:00"
+                },
+                "wheelBasedSpeed": 118.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.368921,
+                    "longitude": -69.603806,
+                    "heading": "291",
+                    "altitude": 1418,
+                    "speed": 122.4,
+                    "positionDateTime": "2025-05-21T16:10:00"
+                },
+                "wheelBasedSpeed": 122.4
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.36314,
+                    "longitude": -69.621811,
+                    "heading": "271",
+                    "altitude": 1390,
+                    "speed": 111.6,
+                    "positionDateTime": "2025-05-21T16:11:00"
+                },
+                "wheelBasedSpeed": 111.6
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.363152,
+                    "longitude": -69.640053,
+                    "heading": "270",
+                    "altitude": 1374,
+                    "speed": 115.2,
+                    "positionDateTime": "2025-05-21T16:12:00"
+                },
+                "wheelBasedSpeed": 115.2
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.362495,
+                    "longitude": -69.659523,
+                    "heading": "277",
+                    "altitude": 1360,
+                    "speed": 115.2,
+                    "positionDateTime": "2025-05-21T16:13:00"
+                },
+                "wheelBasedSpeed": 115.2
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.360239,
+                    "longitude": -69.678932,
+                    "heading": "278",
+                    "altitude": 1362,
+                    "speed": 118.8,
+                    "positionDateTime": "2025-05-21T16:14:00"
+                },
+                "wheelBasedSpeed": 118.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.355612,
+                    "longitude": -69.69323,
+                    "heading": "276",
+                    "altitude": 1392,
+                    "speed": 82.8,
+                    "positionDateTime": "2025-05-21T16:15:00"
+                },
+                "wheelBasedSpeed": 82.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.350805,
+                    "longitude": -69.707977,
+                    "heading": "310",
+                    "altitude": 1382,
+                    "speed": 104.4,
+                    "positionDateTime": "2025-05-21T16:16:00"
+                },
+                "wheelBasedSpeed": 104.4
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.344173,
+                    "longitude": -69.723274,
+                    "heading": "284",
+                    "altitude": 1400,
+                    "speed": 104.4,
+                    "positionDateTime": "2025-05-21T16:17:00"
+                },
+                "wheelBasedSpeed": 104.4
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.340202,
+                    "longitude": -69.74057,
+                    "heading": "284",
+                    "altitude": 1404,
+                    "speed": 118.8,
+                    "positionDateTime": "2025-05-21T16:18:00"
+                },
+                "wheelBasedSpeed": 118.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.338585,
+                    "longitude": -69.756432,
+                    "heading": "259",
+                    "altitude": 1371,
+                    "speed": 90,
+                    "positionDateTime": "2025-05-21T16:19:00"
+                },
+                "wheelBasedSpeed": 90
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.341375,
+                    "longitude": -69.768524,
+                    "heading": "274",
+                    "altitude": 1312,
+                    "speed": 75.6,
+                    "positionDateTime": "2025-05-21T16:20:00"
+                },
+                "wheelBasedSpeed": 75.6
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.341156,
+                    "longitude": -69.780525,
+                    "heading": "300",
+                    "altitude": 1245,
+                    "speed": 61.2,
+                    "positionDateTime": "2025-05-21T16:21:00"
+                },
+                "wheelBasedSpeed": 61.2
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:21:10",
+                "receivedDateTime": "2025-05-21T16:21:37",
+                "gnssPosition": {
+                    "latitude": -23.340599,
+                    "longitude": -69.782043,
+                    "heading": "282",
+                    "altitude": 1235,
+                    "speed": 61.2,
+                    "positionDateTime": "2025-05-21T16:21:10"
+                },
+                "wheelBasedSpeed": 61.2
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:22:01",
+                "receivedDateTime": "2025-05-21T16:23:37",
+                "gnssPosition": {
+                    "latitude": -23.34087,
+                    "longitude": -69.793159,
+                    "heading": "276",
+                    "altitude": 1186,
+                    "speed": 97.2,
+                    "positionDateTime": "2025-05-21T16:22:00"
+                },
+                "wheelBasedSpeed": 97.2
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:23:01",
+                "receivedDateTime": "2025-05-21T16:23:37",
+                "gnssPosition": {
+                    "latitude": -23.336769,
+                    "longitude": -69.807663,
+                    "heading": "293",
+                    "altitude": 1124,
+                    "speed": 86.4,
+                    "positionDateTime": "2025-05-21T16:23:00"
+                },
+                "wheelBasedSpeed": 86.4
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:24:01",
+                "receivedDateTime": "2025-05-21T16:24:07",
+                "gnssPosition": {
+                    "latitude": -23.331448,
+                    "longitude": -69.820862,
+                    "heading": "293",
+                    "altitude": 1073,
+                    "speed": 82.8,
+                    "positionDateTime": "2025-05-21T16:24:00"
+                },
+                "wheelBasedSpeed": 82.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:25:01",
+                "receivedDateTime": "2025-05-21T16:25:05",
+                "gnssPosition": {
+                    "latitude": -23.330332,
+                    "longitude": -69.827568,
+                    "heading": "240",
+                    "altitude": 1055,
+                    "speed": 28.8,
+                    "positionDateTime": "2025-05-21T16:25:00"
+                },
+                "wheelBasedSpeed": 28.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": {
+                    "triggerType": "WARNING_RETARDER",
+                    "context": "SCANIA"
+                },
+                "createdDateTime": "2025-05-21T16:25:50",
+                "receivedDateTime": "2025-05-21T16:25:53",
+                "gnssPosition": {
+                    "latitude": -23.330711,
+                    "longitude": -69.828735,
+                    "heading": "254",
+                    "altitude": 1054,
+                    "speed": 0,
+                    "positionDateTime": "2025-05-21T16:25:49"
+                },
+                "wheelBasedSpeed": 0
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:26:01",
+                "receivedDateTime": "2025-05-21T16:26:05",
+                "gnssPosition": {
+                    "latitude": -23.330711,
+                    "longitude": -69.828735,
+                    "heading": "254",
+                    "altitude": 1053,
+                    "speed": 0,
+                    "positionDateTime": "2025-05-21T16:26:00"
+                },
+                "wheelBasedSpeed": 0
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:31:01",
+                "receivedDateTime": "2025-05-21T16:31:06",
+                "gnssPosition": {
+                    "latitude": -23.33017,
+                    "longitude": -69.832253,
+                    "heading": "265",
+                    "altitude": 1045,
+                    "speed": 36,
+                    "positionDateTime": "2025-05-21T16:31:00"
+                },
+                "wheelBasedSpeed": 36
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:32:01",
+                "receivedDateTime": "2025-05-21T16:32:06",
+                "gnssPosition": {
+                    "latitude": -23.330568,
+                    "longitude": -69.834854,
+                    "heading": "260",
+                    "altitude": 1043,
+                    "speed": 25.2,
+                    "positionDateTime": "2025-05-21T16:32:00"
+                },
+                "wheelBasedSpeed": 25.2
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:33:01",
+                "receivedDateTime": "2025-05-21T16:33:06",
+                "gnssPosition": {
+                    "latitude": -23.331306,
+                    "longitude": -69.837761,
+                    "heading": "242",
+                    "altitude": 1041,
+                    "speed": 21.6,
+                    "positionDateTime": "2025-05-21T16:33:00"
+                },
+                "wheelBasedSpeed": 21.6
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:34:01",
+                "receivedDateTime": "2025-05-21T16:34:05",
+                "gnssPosition": {
+                    "latitude": -23.333035,
+                    "longitude": -69.840645,
+                    "heading": "233",
+                    "altitude": 1036,
+                    "speed": 32.4,
+                    "positionDateTime": "2025-05-21T16:34:00"
+                },
+                "wheelBasedSpeed": 32.4
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:35:01",
+                "receivedDateTime": "2025-05-21T16:35:06",
+                "gnssPosition": {
+                    "latitude": -23.334513,
+                    "longitude": -69.842865,
+                    "heading": "237",
+                    "altitude": 1035,
+                    "speed": 32.4,
+                    "positionDateTime": "2025-05-21T16:35:00"
+                },
+                "wheelBasedSpeed": 32.4
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:35:50",
+                "receivedDateTime": "2025-05-21T16:35:53",
+                "gnssPosition": {
+                    "latitude": -23.336094,
+                    "longitude": -69.845634,
+                    "heading": "236",
+                    "altitude": 1031,
+                    "speed": 10.8,
+                    "positionDateTime": "2025-05-21T16:35:49"
+                },
+                "wheelBasedSpeed": 10.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:36:01",
+                "receivedDateTime": "2025-05-21T16:36:05",
+                "gnssPosition": {
+                    "latitude": -23.336092,
+                    "longitude": -69.845848,
+                    "heading": "321",
+                    "altitude": 1031,
+                    "speed": 10.8,
+                    "positionDateTime": "2025-05-21T16:36:00"
+                },
+                "wheelBasedSpeed": 10.8
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:37:01",
+                "receivedDateTime": "2025-05-21T16:37:06",
+                "gnssPosition": {
+                    "latitude": -23.335079,
+                    "longitude": -69.843811,
+                    "heading": "62",
+                    "altitude": 1032,
+                    "speed": 18,
+                    "positionDateTime": "2025-05-21T16:37:00"
+                },
+                "wheelBasedSpeed": 18
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": {
+                    "triggerType": "IGNITION_OFF",
+                    "context": "RFMS"
+                },
+                "createdDateTime": "2025-05-21T16:37:25",
+                "receivedDateTime": "2025-05-21T16:37:30",
+                "gnssPosition": {
+                    "latitude": -23.334938,
+                    "longitude": -69.843513,
+                    "heading": "61",
+                    "altitude": 1033,
+                    "speed": 0,
+                    "positionDateTime": "2025-05-21T16:37:24"
+                },
+                "wheelBasedSpeed": 0
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:38:01",
+                "receivedDateTime": "2025-05-21T16:38:05",
+                "gnssPosition": {
+                    "latitude": -23.334938,
+                    "longitude": -69.843513,
+                    "heading": "61",
+                    "altitude": 1033,
+                    "speed": 0,
+                    "positionDateTime": "2025-05-21T16:38:00"
+                },
+                "wheelBasedSpeed": 0
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:48:07",
+                "receivedDateTime": "2025-05-21T16:48:11",
+                "gnssPosition": {
+                    "latitude": -23.33503,
+                    "longitude": -69.843475,
+                    "heading": "93",
+                    "altitude": 1031,
+                    "speed": 0,
+                    "positionDateTime": "2025-05-21T16:46:31"
+                },
+                "wheelBasedSpeed": 0
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:48:07",
+                "receivedDateTime": "2025-05-21T16:48:11",
+                "gnssPosition": {
+                    "latitude": -23.334942,
+                    "longitude": -69.843491,
+                    "heading": "216",
+                    "altitude": 1031,
+                    "speed": 0,
+                    "positionDateTime": "2025-05-21T16:47:24"
+                },
+                "wheelBasedSpeed": 0
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:48:07",
+                "receivedDateTime": "2025-05-21T16:48:11",
+                "gnssPosition": {
+                    "latitude": -23.334684,
+                    "longitude": -69.843124,
+                    "heading": "61",
+                    "altitude": 1033,
+                    "speed": 18,
+                    "positionDateTime": "2025-05-21T16:48:06"
+                },
+                "wheelBasedSpeed": 18
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": {
+                    "triggerType": "IGNITION_ON",
+                    "context": "RFMS"
+                },
+                "createdDateTime": "2025-05-21T16:46:35",
+                "receivedDateTime": "2025-05-21T16:48:14",
+                "gnssPosition": {
+                    "latitude": -23.334896,
+                    "longitude": -69.843491,
+                    "heading": "216",
+                    "altitude": 1032,
+                    "speed": 0,
+                    "positionDateTime": "2025-05-21T16:46:34"
+                },
+                "wheelBasedSpeed": 0
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": {
+                    "triggerType": "DRIVER_CHANGE",
+                    "context": "SCANIA"
+                },
+                "createdDateTime": "2025-05-21T16:46:36",
+                "receivedDateTime": "2025-05-21T16:48:16",
+                "gnssPosition": {
+                    "latitude": -23.334896,
+                    "longitude": -69.843491,
+                    "heading": "216",
+                    "altitude": 1032,
+                    "speed": 0,
+                    "positionDateTime": "2025-05-21T16:46:35"
+                },
+                "wheelBasedSpeed": 0
+            },
+            {
+                "vin": "9BSG6X400N4012900",
+                "triggerType": { "triggerType": "TIMER", "context": "RFMS" },
+                "createdDateTime": "2025-05-21T16:48:25",
+                "receivedDateTime": "2025-05-21T16:48:29",
+                "gnssPosition": {
+                    "latitude": -23.334015,
+                    "longitude": -69.842064,
+                    "heading": "54",
+                    "altitude": 1036,
+                    "speed": 28.8,
+                    "positionDateTime": "2025-05-21T16:48:24"
+                },
+                "wheelBasedSpeed": 28.8
+            }
+        ]
+    },
+    "moreDataAvailable": false,
+    "moreDataAvailableLink": "",
+    "requestServerDateTime": "2025-05-21T16:48:58"
+}
