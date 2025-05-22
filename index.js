@@ -70,6 +70,18 @@ function applyFilters(data, query) {
   });
 }
 
+const loadPosicionesData = () => {
+  const filePath = path.join(__dirname, 'posiciones.json');
+  try {
+    const raw = fs.readFileSync(filePath, 'utf-8');
+    const json = JSON.parse(raw);
+    return json;
+  } catch (err) {
+    console.error('Error reading posiciones.json:', err);
+  }
+
+}
+
 app.get('/', (req, res) => {
   const rawData = loadServicePlanningData();
   const filteredData = applyFilters(rawData, req.query);
@@ -79,6 +91,14 @@ app.post('/', (req, res) => {
   const rawData = loadServicePlanningData();
   const filteredData = applyFilters(rawData, req.query);
   res.json(filteredData);
+});
+app.get('/posiciones', (req, res) => {
+  const rawData = loadPosicionesData();
+  res.json(rawData);
+});
+app.post('/posiciones', (req, res) => {
+  const rawData = loadPosicionesData();
+  res.json(rawData);
 });
 
 app.listen(PORT, () => {
